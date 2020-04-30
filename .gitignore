@@ -4,3 +4,6 @@ Gemfile.lock
 test/connection.yml
 *.rbc
 .yardoc/
+doc/
+vagrant/vertica*.deb
+vagrant/.vagrant/
